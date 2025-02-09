@@ -13,5 +13,25 @@ Para llegar al directorio.
 
 > [!TIP]
 > Se usa la estructura:
+>
 >g++ [nombre del archivo].cpp -o [nombre del archivo].exe
+>
 >Para compilar el archivo.
+
+Y en mis caso ejecuto
+```
+g++ hello_world.cpp -o hello_world.exe
+```
+Para el archivo hello_world.cpp que creará el ejecutable llamado hello_world.exe
+
+Y luego ejecuto
+```
+g++ tarea001.cpp -o tarea001.exe
+```
+Para el archivo tarea001.cpp que creará el ejecutable llamado tarea001.exe
+
+Y con eso acabo este README.md
+
+## INSTEAD OF COMING UP WITH A GOOD SOLUTION,
+
+![I instantly gave up](./img/miku.png)
